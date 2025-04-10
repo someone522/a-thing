@@ -1,0 +1,4 @@
+1-(llama-3b)"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"  "meta-llama/llama-3.2-3b-instruct:free"
+2-(llama-11b)"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"   "meta-llama/llama-3.2-11b-vision-instruct:free"
+3-(llama-8b)"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"   "meta-llama/llama-3.1-8b-instruct:free"
+4-(mistral-7b)"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"   "mistralai/mistral-7b-instruct:free"(currently choosen)
